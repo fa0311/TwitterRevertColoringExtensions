@@ -1,0 +1,17 @@
+{
+    "name": "TwitterRevertColoringExtensions",
+    "description": "TwitterRevertColoringExtensions",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "html/popup.html"
+    },
+    "content_scripts": [{
+        "matches": [
+            "https://twitter.com/*"
+        ],
+        "css": [
+            "css/TwitterRevertColoring.user.css"
+        ]
+    }]
+}
