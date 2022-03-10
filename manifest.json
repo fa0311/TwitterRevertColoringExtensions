@@ -12,7 +12,8 @@
         ],
         "css": [
             "css/TwitterRevertColoring.user.css",
-            "css/TwitterRevertColoringPlus.user.css"
+            "css/TwitterRevertColoringPlus.user.css",
+            "css/TwitterRevertColoringConfig.user.css"
         ]
     }]
 }
