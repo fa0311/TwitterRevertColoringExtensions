@@ -8,5 +8,5 @@ nav[role="navigation"][aria-label="メインメニュー"]>*>div>div:nth-child(1
 /* 通知 */
 
 div[aria-label="タイムライン: 通知"] article[role="article"] div[dir="ltr"]>div>a[role="link"]>span {
-    background-color: var(--color-blue-hover) !important;
+    color: #000000 !important;
 }
