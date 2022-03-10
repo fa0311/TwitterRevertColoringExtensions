@@ -1,7 +1,7 @@
 {
     "name": "TwitterRevertColoringExtensions",
     "description": "TwitterRevertColoringExtensions",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "manifest_version": 3,
     "action": {
         "default_popup": "html/popup.html"
